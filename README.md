@@ -8,11 +8,11 @@ Este manual de usuario describe el uso del programa desarrollado en lenguaje ens
 - Archivo fuente: tarea1.asm
 - Documentación de apoyo: PDF de bitácora y documentación técnica incluida en el proyecto
 3. Instalación
-1. Descargue e instale emu8086 desde el sitio oficial.
-2. Descomprima el archivo entregado (tarea_1_paradigmas.zip).
-3. Abra el archivo tarea1.asm en el emulador.
-4. Compile el programa desde el menú 'Compile'.
-5. Ejecute el programa seleccionando 'Run'.
+    1. Descargue e instale emu8086 desde el sitio oficial.
+    2. Descomprima el archivo entregado (tarea_1_paradigmas.zip).
+    3. Abra el archivo tarea1.asm en el emulador.
+    4. Compile el programa desde el menú 'Compile'.
+    5. Ejecute el programa seleccionando 'Run'.
 4. Uso del Programa
 Al iniciar el programa, se muestra un menú principal con 5 opciones. El usuario debe ingresar el número de la opción y presionar Enter.
 Opción 1: Ingresar estudiante
